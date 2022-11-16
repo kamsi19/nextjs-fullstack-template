@@ -1,1 +1,2 @@
-Accept incoming
+NEXTJS Fullstack template
+#NextJS
